@@ -1,3 +1,7 @@
+#this is the code that i write .thst hsve a function of calculator using python language
+
+
+
 import tkinter as tk#import Tkinter module and  use tk as shorthand
 from tkinter import *
 
